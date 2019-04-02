@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/romaldowoho/roman-tutoring.svg?branch=master)](https://travis-ci.org/romaldowoho/roman-tutoring)
+
 
 # my-website
 
